@@ -1,0 +1,46 @@
+.frame {
+    width:75px;
+    height:75px;
+    border-radius: 5%;
+    border: 3px solid black;
+}
+.row {
+    
+    display:flex;
+    margin-left:10%;
+    margin-top:5%;
+}
+.circle {
+    width:20px;
+    height:20px;
+    border-radius: 100%;
+}
+.on {
+    
+    background-color: black;
+}
+.off {
+    background-color: white;
+}
+.seperator {
+    
+    width:20px;
+    height:20px;
+    border-radius: 100%;
+}
+.main {
+    display:Flex;
+}
+
+#val {
+    width:75px;
+    height:75px;
+    border-radius: 100%;
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin-left: 10%;
+}
